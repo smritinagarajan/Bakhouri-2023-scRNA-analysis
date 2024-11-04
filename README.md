@@ -1,4 +1,4 @@
-# Bukhauri 2023 Analysis
+# Bukhari 2023 Analysis
 
 My final project for CMM 523 "Crash Course in Single-cell Genomics Analysis for Biologists" at the University of Arizona (taken in Fall 2024) was to run my own analysis on a publicly available single-cell RNA sequencing dataset. 
 
